@@ -1,2 +1,2 @@
 # PngToJpeg
-App for converting png to jpe
+App for converting png to jpg
